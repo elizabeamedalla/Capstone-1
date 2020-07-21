@@ -6,8 +6,12 @@
  Next, filter the data from 1/1/2015 to 12/31/2019. Lastly, download file via csv and name it 'nyc_crime'.
  
  
+ 
+ 
+ 
 
 Column	Description
+
 CMPLNT_NUM	- Randomly generated persistent ID for each complaint
 
 CMPLNT_FR_DT	- Exact date of occurrence for the reported event (or starting date of occurrence, if CMPLNT_TO_DT exists)
